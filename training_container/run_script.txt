@@ -1,0 +1,1 @@
+docker run -it -p 5000:5000 --gpus all --memory=80g --memory-swap=80g --shm-size=8g stock_prediction_image
