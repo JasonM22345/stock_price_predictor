@@ -112,6 +112,4 @@ curl -X POST -F "api_key=Change_API_key" -F "input_file=@test_stock_data.csv" -F
 - The `FilesToUpload/` folder in Docker contains all scripts and data for training.
 - The API key must be updated for authentication.
 
-## License
-This project is open-source and available for modification and improvement.
 
